@@ -1,0 +1,22 @@
+ASCII Wonderlab - Proprietary Binary-Only Licence
+
+Copyright (c) 2026 Eleanor. All rights reserved.
+
+This skill is distributed as documentation plus a compiled binary only.
+The source code is proprietary, is not distributed with this release, and
+does not become available by possession of the binary.
+
+Permitted:
+- Running the wonderlab binary as described in SKILL.md for personal use.
+- Copying the binary together with SKILL.md and this licence, unchanged.
+
+Not permitted:
+- Reverse engineering, decompiling or disassembling the binary, except
+  where a law that applies to the user expressly permits it.
+- Extracting or reusing the built-in word list or text tables as a
+  standalone dataset.
+- Selling, sublicensing or redistributing the binary on its own.
+- Claiming authorship of the binary or removing this licence from a copy.
+
+The binary is provided as is, without warranty of any kind. It runs
+entirely offline and collects no data.

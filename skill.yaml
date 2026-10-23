@@ -1,0 +1,5 @@
+name: "ascii_wonderlab"
+title: "ASCII Wonderlab"
+description: "Generates solvable ASCII mazes, Mandelbrot and Julia fractals, secure passphrases and a deterministic daily fortune, all offline through a proprietary binary."
+category: "Fun and creativity"
+include_in_prompt: true
