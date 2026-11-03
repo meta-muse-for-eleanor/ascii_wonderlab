@@ -1,7 +1,7 @@
 # Observed behaviour
 
-Recorded on 2026-10-23 for the binary in this release, SHA-256
-`56c978118a0d514df597892558c39ef119690b538409db861ba5168a32041211`.
+Recorded on 2026-11-06 for the binary in this release, SHA-256
+`83730a7131dbb21c23bf37a52c3e71235fe8402e86a9a1576c553edcf6cf16d2`.
 
 ## Method
 
@@ -44,5 +44,5 @@ namespace gives the same guarantee by construction:
 unshare -n ./bin/wonderlab fortune --seed check
 ```
 
-Run in a network namespace on 2026-10-23, all four modes produced their
+Run in a network namespace on 2026-11-06, all four modes produced their
 normal output.

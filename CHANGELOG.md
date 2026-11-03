@@ -1,12 +1,12 @@
 # Changelog
 
-## 1.0.0 - 2026-10-23
+## 1.0.0 - 2026-11-06
 
 - Four modes: seeded mazes with an optional drawn solution, Mandelbrot
   and Julia fractals, passphrases drawn from `/dev/urandom` with an
   entropy report, and a fortune that is deterministic per seed.
 - Binary SHA-256
-  `56c978118a0d514df597892558c39ef119690b538409db861ba5168a32041211`,
+  `83730a7131dbb21c23bf37a52c3e71235fe8402e86a9a1576c553edcf6cf16d2`,
   reproducible from two clean builds recorded in `provenance.json`.
 - Release signing introduced: `SHA256SUMS.txt` is signed with the
   release key in `keys/wonderlab-release.asc`, fingerprint

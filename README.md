@@ -30,12 +30,6 @@ sh verify.sh
 2. The OpenPGP signature in `SHA256SUMS.txt.asc` is valid for that key.
 3. Every file listed in `SHA256SUMS.txt` matches its recorded SHA-256.
 
-A valid signature establishes that these files are unchanged since the
-holder of the release key signed them, and that later releases signed
-with the same key come from the same holder. On first use, compare the
-fingerprint with one obtained through a separate channel, since a
-fingerprint copied from the same download cannot vouch for itself.
-
 Manual verification, without the script:
 
 ```sh
@@ -64,8 +58,8 @@ It writes only to standard output. Passphrase mode also reads
 The binary is 31 KB, stripped, and links only against glibc.
 `provenance.json` records the exact compiler version and flags. The
 build is reproducible: two clean builds in separate directories on
-2026-10-23 produced a bit-identical binary, SHA-256
-`56c978118a0d514df597892558c39ef119690b538409db861ba5168a32041211`.
+2026-11-06 produced a bit-identical binary, SHA-256
+`83730a7131dbb21c23bf37a52c3e71235fe8402e86a9a1576c553edcf6cf16d2`.
 
 ## Contents of this release
 
