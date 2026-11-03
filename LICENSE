@@ -11,8 +11,6 @@ Permitted:
 - Copying the binary together with SKILL.md and this licence, unchanged.
 
 Not permitted:
-- Reverse engineering, decompiling or disassembling the binary, except
-  where a law that applies to the user expressly permits it.
 - Extracting or reusing the built-in word list or text tables as a
   standalone dataset.
 - Selling, sublicensing or redistributing the binary on its own.

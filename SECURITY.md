@@ -36,7 +36,7 @@ verified copy until the new one passes.
 
 ## Scope of the checks in this repository
 
-`BEHAVIOUR.md` records observations made with `strace` on 2026-10-23.
+`BEHAVIOUR.md` records observations made with `strace` on 2026-11-11.
 Those observations describe that build on that day. The signed hashes
 and reproducible build record in `provenance.json` are what tie any
 later copy back to the build that was observed.

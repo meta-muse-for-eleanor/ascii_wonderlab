@@ -50,12 +50,6 @@
 
 - Present the fortune as light entertainment and not as advice, a prediction or a basis for a decision.
 
-## Available connectors
-
-- Use `muse.connector_search` to find other connectors and `muse.skill_search` to find related skills.
-
-- If nothing here fits, look on the web for a maintained API or MCP server and set it up with [Custom Connectors and MCPs](/opt/muse/skills/custom-connector-setup/SKILL.md), or build a custom connector.
-
 ## Alternatives for better results
 
 - Offer a solved and an unsolved copy of the same seeded maze when the user wants a puzzle for someone else.

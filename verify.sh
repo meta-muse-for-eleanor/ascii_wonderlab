@@ -36,5 +36,4 @@ esac
 
 sha256sum -c SHA256SUMS.txt
 echo "verify: OK - this release is intact and signed by the pinned release key"
-echo "verify: on first use, confirm the fingerprint through a separate channel:"
 echo "        5D61 8346 092F 2C27 F609 5597 B187 898A 6EFA 8024"
